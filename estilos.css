@@ -1,0 +1,73 @@
+body{
+	background-image: url('fundo.png') ;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#menu {
+	background: #C96EEE;
+	padding: 18px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	padding: 8px;
+	font-weight: bold;
+}
+#texto {
+	text-align: center;
+	color: white;
+	font-family: Georgia;
+	font-size: 20px;
+}
+#quote {
+	text-align: center;
+	color: white;
+	font-family: Georgia;
+	font-size: 28px;
+
+}
+#rodape {
+	text-align: center;
+	color: white;
+	font-family: Times New Roman;
+	font-size: 17px;
+	margin: 50px 490px;
+}
+#projetos {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#ferramentas {
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+fieldset {
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border: 3px solid #C96EEE;
+	font-weight: bold;
+	width: 500px;
+
+
+
+
+}
+#meucontato {
+	color: white;
+	text-align: center;
+}
+
+img {
+	text-align: center;
+}
